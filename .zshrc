@@ -92,7 +92,7 @@ source $ZSH/oh-my-zsh.sh
 #   export EDITOR='mvim'
 # fi
 # Current GITHUB_User how grabs from the .gitconfig file
-RPROMPT='%(?.%F{white}$(github_user)'
+RPROMPT='%(?.%F{green}$(github_user)'
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 

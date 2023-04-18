@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+Brewfile.lock.json
+rubocop_cache/
+.tool-versions

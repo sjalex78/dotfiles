@@ -1,0 +1,14 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Sarah Alexander
+	email = sjalex78@gmail.com
+[core]
+	pager = less -F -X
+	excludesfile = /Users/sarahalexander/.gitignore_global
+[pull]
+	rebase = true
+[credential]
+	username = sjalex78
+[commit]
+	template = /Users/sarahalexander/.gitmessage
