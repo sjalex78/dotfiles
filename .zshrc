@@ -128,7 +128,3 @@ export PATH="$HOME/.asdf/installs/php/7.4.32/.composer/vendor/bin:$PATH"
 export PATH="/opt/homebrew/opt/sqlite/bin:$PATH"
 
 alias yws="yarn workspace"
-
-# link to home dotfile folder
-echo "alias config='/usr/bin/git --git-dir=$HOME/dotfiles/.git --work-tree=$HOME/dotfiles'" >> $HOME/.zshrc`
-
